@@ -65,6 +65,7 @@ header > p{
     margin: auto;
    padding-right: 10px;
    padding-left: 10px;
+   padding-bottom: 30px;
    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.542);
    text-align: center;
 
@@ -176,7 +177,7 @@ aside{
 
 }
 aside ul{
-    list-style-type: '\2714\00A0\00A0';
+    list-style-type: '\2714\00A0';
     list-style-position: inside;
     columns: 2;
 
